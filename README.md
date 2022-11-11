@@ -11,9 +11,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-### Hi there 👋
+
 
 ![Youssef Banner](https://user-images.githubusercontent.com/78832703/201371086-128d10aa-f341-4e55-8077-22007a6ed92f.png)
 
