@@ -63,9 +63,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YKerroum&theme=react&hide_border=true&border_radius=5.3)](https://git.io/streak-stats)
-  &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKerroum&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YKerroum&theme=react&hide_border=true&border_radius=5.3)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKerroum&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
