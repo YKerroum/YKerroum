@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/ykerroum/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-AngelList-URL">
+  <a href="https://angel.co/u/youssef-kerroum">
     <img src="https://img.shields.io/badge/AngelList-lightgrey?style=for-the-badge&logo=twitter&logoColor=white" alt="AngelList Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://twitter.com/kerroum_youssef">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
