@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ykerroum/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://angel.co/u/youssef-kerroum">
+  <a href="https://angel.co/u/ykerroum">
     <img src="https://img.shields.io/badge/AngelList-lightgrey?style=for-the-badge&logo=twitter&logoColor=white" alt="AngelList Badge"/>
   </a>
   <a href="https://twitter.com/kerroum_youssef">
