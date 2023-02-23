@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YKerroum&theme=react&hide_border=true&border_radius=5.3)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKerroum&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKerroum&layout=compact&theme=react&count_private=true)](https://github.com/YKerroum/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YKerroum)](https://github.com/YKerroum/github-profile-trophy)
 
